@@ -1,1 +1,1 @@
-# oracle-mybatis-generator
+# oracle mybatis 逆向工程
